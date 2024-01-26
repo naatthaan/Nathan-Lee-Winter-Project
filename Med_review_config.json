@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Medication_Review",
+      "tensorShape": [
+        697,
+        3
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/arioncheong/de89ea6389bb9b3f02ca87695803929b/raw/a8c2c03ecf42e09f9f6bc604a30a0df94641cca2/vectors.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/arioncheong/de89ea6389bb9b3f02ca87695803929b/raw/a8c2c03ecf42e09f9f6bc604a30a0df94641cca2/metadata.tsv"
+    }
+  ]
+}
