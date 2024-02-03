@@ -1,3 +1,6 @@
+Link to Embedding Projector: https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/naatthaan/Nathan-Lee-Winter-Project/main/Med_review_config.json
+Link to Code (Google Colab): https://colab.research.google.com/drive/1x8pUZqTlgH_j-MckkM-RG2k-0YwmI7BN#scrollTo=2zpEsDIrwjx1
+
 Code:
 
 
