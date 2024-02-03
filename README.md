@@ -1,22 +1,28 @@
 Code:
+
 Import Packages:
 -Packages to help with coding
+
 Import Data:
 -Data Set from Google Drive
 -Data taken from UC Irvine Data Repository - drug review data set
+
 Extract Noun and Verbs:
 -Using the nltk word tokenize function to only take the nouns and verbs from the review
 -These are the most important words in the text to understand what it is saying
 -Put the nouns and verbs from the review and put them into a data frame
+
 Train Doc2Vec Model:
 -Machine learning process, training to understand what the reviews are saying
 -Giving numerical values for the words
 -Gives vectors for each of the reviews left by users - a numerical value for the whole review
+
 Visualize Doc2Vec Model and Reduce Dimension
 -Uses the vectors to organize them into a 3D model
 -Drugs are grouped together based on how similar their vectors are - similar drugs are closer together
 -Easier to see the data and understand it
 -Only three dimensions are shown - reduced from hundreds of dimensions, making it easier for humans to understand and visualize
+
 Save Results for Embedding Projection:
 -Uses Tensorflow’s embedding projector - makes it easier to visualize, interact
 -The visualized data with code is harder to use and see
